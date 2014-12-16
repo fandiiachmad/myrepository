@@ -1,3 +1,7 @@
 <html>
+<<<<<<< HEAD
 <h1>Cobain</h1>
+=======
+<h1>Coba aja</h1>
+>>>>>>> 77e1704790d074608fee3c7bff761be604cecd58
 </html>
